@@ -9,10 +9,9 @@ Me esfuerzo por aprender continuamente nuevas tecnologías y enfoques que me ayu
 ---
 
 ### Sobre mí 🌟
-- 💻 Me apasiona el diseño de APIs RESTful y la gestión de bases de datos relacionales y no relacionales.
 - 🔒 Me interesa la seguridad en sistemas y la implementación de buenas prácticas en el manejo de datos.
 - 🌱 Actualmente estoy aprendiendo sobre **DevOps** y **Docker** para integrarme mejor en equipos colaborativos.
-- 🧩 Disfruto resolver problemas complejos y diseñar soluciones personalizadas para cada proyecto.
+- 🧩 Me gusta jugar Minecraft 
 
 ### Conocimientos básicos 📚
 🛡️ **Ciberseguridad**  
