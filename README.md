@@ -47,4 +47,4 @@ Me esfuerzo por aprender continuamente nuevas tecnologías y enfoques que me ayu
 
 ---
 
-✨ _Siempre listo para aprender, colaborar y enfrentar nuevos desafíos._ ✨
+✨ _Siempre lista para aprender, colaborar y enfrentar nuevos desafíos._ ✨
